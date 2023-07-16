@@ -1,0 +1,5 @@
+<launch>
+	<node name="speed_limit_node" pkg="v2x_pkg" type="speed_limit.py" output="screen" />
+	<node name="v2x" pkg="v2x_pkg" type="v2x.py" required="true" output="screen" />
+
+</launch>

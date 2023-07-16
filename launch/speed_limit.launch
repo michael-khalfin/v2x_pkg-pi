@@ -1,0 +1,7 @@
+<launch>
+
+<node name="speed_limit" pkg="v2x_pkg" type="speed_limit.py" required="true">
+    <param name='speed' value="0"/>
+</node>
+
+</launch>
