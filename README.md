@@ -7,7 +7,7 @@
   <p align="center">
     Part 4/4
     <br />
-    <a href="https://github.com/michael-khalfin/tpn_pkg"><strong>Explore the code »</strong></a>
+    <a href="https://github.com/michael-khalfin/v2x_pkg-pi"><strong>Explore the code »</strong></a>
   </p>
 </div>
 
